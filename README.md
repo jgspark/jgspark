@@ -19,7 +19,7 @@
 
 <a href="https://github.com/Gon-Zo/java-application">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gon-Zo&repo=java-application&theme=shades-of-purple"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gon-Zo&repo=CMS_Project&theme=shades-of-purple"/>
 
 </a>
 
