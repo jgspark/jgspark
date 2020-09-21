@@ -17,7 +17,7 @@
 
  
 
-<a href="https://github.com/Gon-Zo/java-application">
+<a href="https://github.com/Gon-Zo/CMS_Project.git">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gon-Zo&repo=CMS_Project&theme=shades-of-purple"/>
 
