@@ -3,7 +3,7 @@
 
 <a href="https://github.com/Gon-Zo/gon-zo">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gon-Zo&theme=shades-of-purple"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gon-Zo&layout=compact&theme=shades-of-purple"/>
 
 </a>
 
