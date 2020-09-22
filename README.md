@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gon-Zo&repo=CMS_Project&theme=shades-of-purple"/>
 </a>
 
-<a href="https://github.com/Gon-Zo/py-application">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gon-Zo&repo=py-application&theme=shades-of-purple"/>
+<a href="https://github.com/Gon-Zo/Python_Application.git">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Gon-Zo&repo=Python_Application&theme=shades-of-purple"/>
 </a>
 
