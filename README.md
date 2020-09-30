@@ -1,5 +1,5 @@
 
-#### Java server developer
+#### Java Server Developer
 
 * Develop a web or application server using Java
 
