@@ -14,7 +14,7 @@
 <div>
   <div>
    <a href="https://github.com/Gon-Zo/gon-zo">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=nord&&langs_count=5&username=Gon-Zo&layout=compact"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gon-Zo&layout=compact&theme=nord"/>
    </a>
   </div>
   <div>   
