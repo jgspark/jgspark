@@ -13,13 +13,13 @@
 
 <div>
   <div>
-    <a href="https://github.com/Gon-Zo/gon-zo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gon-Zo&show_icons=true&theme=nord"/>
-  </a>
+   <a href="https://github.com/Gon-Zo/gon-zo">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=nord&&langs_count=5&username=Gon-Zo&layout=compact"/>
+   </a>
   </div>
   <div>   
    <a href="https://github.com/Gon-Zo/gon-zo">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=nord&&langs_count=5&username=Gon-Zo&layout=compact"/>
-  </a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gon-Zo&show_icons=true&theme=nord"/>
+   </a>
   </div>
 </div>
