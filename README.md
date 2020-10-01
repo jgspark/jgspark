@@ -1,7 +1,7 @@
 
 #### Java Server Developer
 
-* Develop a web or application server using Java
+* Develop a web or application server using **Java**
 
 #### Interest
 
