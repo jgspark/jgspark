@@ -18,4 +18,4 @@
 
 <!--  ### 🤘Gon-Zo -->
 
-![noveltaker 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api/?username=noveltaker&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![noveltaker 님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api/?username=newbalancer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
